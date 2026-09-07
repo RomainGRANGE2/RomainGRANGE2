@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RomainGRANGE2)](https://git.io/streak-stats)
 <!--
-**Croomkie/Croomkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RomainGRNGE2/RomainGRNGE2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
